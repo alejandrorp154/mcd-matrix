@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Multi Criteria Decision Analysis Matrix
+This repository contains a Multi Criteria Decision Analysis (MCDA) Matrix tool that allows users to compare and evaluate different options based on multiple criteria. The MCDA Matrix can be used for a variety of decision-making purposes, such as product selection, project prioritization, or anything you like.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to Use the Tool
+The MCDA Matrix tool consists of a template that users can customize according to their specific needs. The template includes several sheets that guide users through the process of defining the decision problem, identifying the criteria and alternatives, assigning weights and scores to each criterion, and calculating the overall scores for each alternative.
 
-## Available Scripts
+## To use the tool, follow these steps:
+1. Start by customizing the criteria and decisions according to your decision problem., or simply choose a template.
 
-In the project directory, you can run:
+2. Assign weights and scores to each criterion based on their relative importance and performance from 1 to 10, respectively.
 
-### `npm start`
+3. That’s it! The results are immediately updated.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![screenshot](./src/matrix-screenshot.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+The MCDA Matrix tool is licensed under the MIT License, which allows users to freely use, modify, and distribute the tool as long as they include the original copyright notice and disclaimer. By using this tool, you agree to abide by the terms of this license.
